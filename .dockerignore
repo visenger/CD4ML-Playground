@@ -1,0 +1,10 @@
+fluentd/**
+instructions/**
+**/.DS_Store
+.vscode/**
+.venv/**
+.git/**
+.pytest_cache/**
+./cov_html/**
+.cache/**
+.jupyter/**

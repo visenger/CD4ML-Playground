@@ -1,0 +1,34 @@
+cd4ml-workshop/*
+nginx/*
+.venv/*
+.vscode/*
+**/.DS_Store
+python/*.venv
+data/raw/*
+python/data/source/*
+python/data/splitter/*
+python/results/*
+data
+.coverage
+.idea/
+cov_html/
+notes.txt
+**/__pycache__/*
+venv
+admin_password
+results
+*.prof
+bad_code.py
+test/mlruns/*
+# Jenkins Files
+jenkins/jenkins-admin-password.txt
+
+# Jupyter Files
+.bash_history
+.cache/*
+.jupyter/*
+.local/*
+**/.ipynb_checkpoints/*
+
+.env
+
