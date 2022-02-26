@@ -2,7 +2,7 @@ numpy==1.17.4
 pandas==0.25.3
 scikit-learn==0.21.3
 flask==1.1.1
-mlflow==1.4.0
+mlflow==1.23.1
 lime==0.1.1.36
 fluent-logger==0.9.4
 bokeh==1.4.0
